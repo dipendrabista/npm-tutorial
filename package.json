@@ -1,0 +1,23 @@
+{
+  "name": "npm-tutorial",
+  "version": "1.0.0",
+  "description": "This project is develped to learn NPM concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipendrabista/npm-tutorial.git"
+  },
+  "author": "dipendra.bista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipendrabista/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/dipendrabista/npm-tutorial#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
